@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myreachhome/static/css/main.073c9b0a.css",
+    "main.js": "/myreachhome/static/js/main.183f8272.js",
+    "static/js/787.8d185f5f.chunk.js": "/myreachhome/static/js/787.8d185f5f.chunk.js",
+    "static/media/logo.svg": "/myreachhome/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myreachhome/index.html",
+    "main.073c9b0a.css.map": "/myreachhome/static/css/main.073c9b0a.css.map",
+    "main.183f8272.js.map": "/myreachhome/static/js/main.183f8272.js.map",
+    "787.8d185f5f.chunk.js.map": "/myreachhome/static/js/787.8d185f5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.183f8272.js"
+  ]
+}
