@@ -15,7 +15,7 @@ export default class Middle extends Component {
           </div>
 
           <div class="skill-row2">
-            <img class="second-image" src="images/running.png" alt="" />
+            <img class="second-image" src="images/running.png" alt="running-img" />
             <h3>Running (Track and Field + Cross Country)</h3>
             <p>I have been doing running as a sport since I was 12 years old. I have qualified for USATF Regionals for JO Track and Field 1500m. My 1 mile personal record is 5:58 and I am just entering freshman year of high school. My goal is to run in college and become a pro runnner. I also want to qualify for NXN (Nike Cross Nationals) in high school.</p>
           </div>
